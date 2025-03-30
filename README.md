@@ -9,4 +9,6 @@ Work In Progress now
 But you can do it with commands:
     bash
 cd src
-python main.py    
+python main.py   
+
+## А что будет не треугольник,а прямоугольник или какая-то другая геометрическая фигура?
